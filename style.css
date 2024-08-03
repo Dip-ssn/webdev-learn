@@ -1,0 +1,56 @@
+body{
+    background-color :black;
+}
+
+h1{
+    color : white;
+    font-family:Courier;
+}
+h2{
+    color:white;
+    font-family :Courier;
+}
+h3{
+    color:white;
+    font-family :Courier;
+}
+p{
+    color:white;
+    font-family :Courier;
+}
+label{
+    color :white;
+    font-family:Courier
+}
+#para{
+    color : #16f249;
+    font-family : "Kanit",sans-serif;
+    font-size:25px;
+    font-weight: lighter ;
+    font-style:oblique ;
+    text-decoration: green dotted underline;
+}
+#header{
+    color:#ffffff;
+    font-family:"Lunasima",sans-serif;
+    font-size:50px;
+    text-decoration: gray dotted underline;
+}
+#border{
+    color:blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-style:solid;
+    border-radius: 10px;
+    border-color: darkblue;
+}
+#borderr{
+    border-style: outset;
+    padding: 5px;
+}
+#ind_body{
+    background-image: url(Images/code.PNG);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
